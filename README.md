@@ -4,6 +4,7 @@
 
 - <b>Cloud Projects</b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/tylerthompson1/Azure-SOC)
+  - [EDR Command Center](https://github.com/tylerthompson1/SOC)
 
 - <b>CaptureTheFlag</b>
   - [TryHackMe BeginnerCTF](https://github.com/tylerthompson1/SimpleCTF)
